@@ -21,6 +21,7 @@
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-helmet": "^5.2.1",
+    "styled-components": "^4.4.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.8.0",
     "stylelint-webpack-plugin": "^1.0.1"
@@ -39,7 +40,6 @@
     "husky": "^3.0.8",
     "lint-staged": "^9.4.1",
     "prettier": "^1.18.2",
-    "styled-components": "^4.4.0",
     "stylelint": "^11.0.0",
     "stylelint-config-recommended": "^3.0.0"
   },
